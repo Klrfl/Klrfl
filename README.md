@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Klrfl!
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in full-stack web development and mobile app development
 - 🌱 I’m currently learning HTML, CSS, Python, C, and JavaScript. Also Git and GitHub
 - 📫 How to reach me: You can contact me via email: efrayanglain@gmail.com. I only have one social media account [on Instagram](https://www.instagram.com/klrfl101/), but I am thinking of making a twitter or a reddit account.
 

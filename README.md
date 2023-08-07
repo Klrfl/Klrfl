@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klrfl!
 - 👀 I’m interested in full-stack web development, but for now I want to be a front-end developer first
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Vue. I also have dabbled in Python and C.
+- 🌱 I’m currently learning JavaScript, Vue, and React and wants to try out exciting new technologies such as SvelteKit and Supabase. I also have dabbled in Python and C.
 - 📫 How to reach me: You can contact me via email: efrayanglain@gmail.com.
 
 <!---

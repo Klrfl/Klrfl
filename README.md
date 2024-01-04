@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klrfl!
 - 👀 I’m interested in full-stack web development, but for now I want to be a front-end developer first
-- 🌱 I’m currently learning JavaScript, Vue, and React and wants to try out exciting new technologies such as SvelteKit and Supabase. I also have dabbled in Python and C.
-- 📫 How to reach me: You can contact me via email: efrayanglain@gmail.com.
+- 🌱 I have experience in JavaScript, Vue, Astro and React, I am currently learning various new and exciting technologies such as Tailwind and Supabase. I also have a bit of experience in Python and C. On the backend side, I have dabbled a little bit with Express and Go.
+- 📫 You can contact me via email: efrayanglain@gmail.com.
 
 <!---
 Klrfl/Klrfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,8 @@
 - 👋 Hello there, I’m @Klrfl!
-- 👀 Front-end en route to full-stack web development
-- 🌱 I have experience in JavaScript, Vue, Astro and React, Tailwind and PAASes such as Supabase and Firebase. On the backend side, I have dabbled a bit with PostgreSQL and Go; and I also have a bit of experience in Python and C.
-- 📫 You can contact me via email: efraim@munthe.dev.
+- 👀 full-stack web development en route to DevOps
+- 💻 TypeScript, Vue, React, Astro, Express, Tailwind
+- 🔌 PostgreSQL, MySQL, SQLite; Typescript, Go, PHP
+- 📫 efraim@munthe.dev
 
 <!---
 Klrfl/Klrfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
